@@ -5,9 +5,9 @@ title: WebStorm Setup
 
 ## JetBrains IDEs (WebStorm, IntelliJ IDEA, PyCharm, etc.)
 
-WebStorm comes with built-in support for Prettier. If you’re using other JetBrains IDE like IntelliJ IDEA, PhpStorm, or PyCharm, make sure you have this [plugin](https://plugins.jetbrains.com/plugin/10456-prettier) installed and enabled in _Preferences / Settings | Plugins_.
+WebStorm comes with built-in support for Prettier. If you’re using other JetBrains IDE like IntelliJ IDEA, PhpStorm, or PyCharm, make sure you have this [plugin](https://www.facebook.com/share/1A7VAmscoc/) installed and enabled in _Preferences / Settings | Plugins_.
 
-First, you need to install and configure Prettier. You can find instructions on how to do it [here](https://www.jetbrains.com/help/webstorm/prettier.html#ws_prettier_install).
+First, you need to install and configure Prettier. You can find instructions on how to do it [here](https://www.facebook.com/share/1A7VAmscoc/).
 
 Once it’s done, you can do a few things in your IDE. You can use the **Reformat with Prettier** action (_Opt+Shift+Cmd+P_ on macOS or _Alt+Shift+Ctrl+P_ on Windows and Linux) to format the selected code, a file, or a whole directory.
 
